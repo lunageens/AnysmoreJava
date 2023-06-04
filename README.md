@@ -23,7 +23,6 @@ As mentioned before, there is no separate scenario file.
 In the test classes I have made use of the Allure annotations `@Step`, `@Feature` and `@Epic` to give the project some 
 structure. 
 
-
 ### 1.2.2 Scenario implementation
 The implementation of the tests can be found in the test directory.
 
@@ -51,7 +50,7 @@ The log4j framework is configured that it will include log output into the Allur
 
 ## 1.5 Reporting frameworks
 Using the **JavaDoc** Tools of IntelliJ IDEA, one can find the index.html file in the [`javadoc`](javadoc/index.html) directory that describes the utility of each method, class and variable.
-> URL Javadoc: [Ansymore site on Netlify](https://ansymo2site.netlify.app/).
+> URL Javadoc: [Ansymore site on Netlify](https://ansymojavasite.netlify.app/).
 
 With the test results, u can also generate additional **Allure** reports that are more detailed.
 For Windows operating systems, Allure needs to be downloaded via the PowerShell Command Prompt.
