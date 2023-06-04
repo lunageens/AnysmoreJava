@@ -1,0 +1,1 @@
+ERROR - The course Master thesis has no professor.
